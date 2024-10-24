@@ -14,4 +14,10 @@ public String getDescricao() {
     }
 
 
+    @Override
+    public String toString() {
+        return(descricao);
+    }
+
+
 }
