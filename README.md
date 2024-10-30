@@ -6,10 +6,6 @@ Bem-vindo ao repositório **Collections**! Este projeto tem o objetivo de explor
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Funcionalidades](#funcionalidades)
-- [Como Usar](#como-usar)
-- [Exemplos de Código](#exemplos-de-código)
-- [Contribuições](#contribuições)
-- [Licença](#licença)
 
 ## Sobre o Projeto
 O **Collections** é um projeto criado para fins de estudo e prática no uso de coleções do Java, com foco em:
